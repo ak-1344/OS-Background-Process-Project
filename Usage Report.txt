@@ -1,0 +1,5 @@
+Report generated on: 2024-09-30 22:51:30
+Application Name               Time (seconds)
+--------------------------------------------
+Usage Report.txt (~/Desktop/Codes/Project) - gedit 20
+ak@kali-linux                  20
