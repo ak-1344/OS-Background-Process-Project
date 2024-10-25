@@ -9,7 +9,7 @@
 #define NEGATIVE_TIME_LIMIT 20 // Threshold time for negative apps in seconds
 
 // Define a list of negative applications
-const char *negativeApps[] = {"firefox", "youtube", "instagram", "reddit", "tiktok"};
+const char *negativeApps[] = {"youtube", "instagram", "reddit", "tiktok"};
 const int numNegativeApps = sizeof(negativeApps) / sizeof(negativeApps[0]);
 
 int firstIteration = 0;
